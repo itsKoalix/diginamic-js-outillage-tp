@@ -1,0 +1,21 @@
+{
+  "name": "diginamic-js-outillage-tp",
+  "version": "1.0.0",
+  "description": "Premier tp outillage",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "http": "node http-server.js",
+    "numbers": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsKoalix/diginamic-js-outillage-tp.git"
+  },
+  "author": "Malix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsKoalix/diginamic-js-outillage-tp/issues"
+  },
+  "homepage": "https://github.com/itsKoalix/diginamic-js-outillage-tp#readme"
+}
